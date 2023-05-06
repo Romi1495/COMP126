@@ -1,0 +1,70 @@
+/* Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+/* Header Styles */
+.navbar {
+  background-color: #333;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Main Content Styles */
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #333;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #c2185b;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #666;
+}
+
+.btn-primary {
+  background-color: #e91e63;
+  border-color: #e91e63;
+}
+
+.btn-primary:hover {
+  background-color: #c2185b;
+  border-color: #c2185b;
+}
+
+/* Image Styles */
+.img-fluid {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+/* Color Scheme */
+/* Pink: #e91e63 */
+/* Dark Gray: #333 */
+/* Light Gray: #f8f8f8 */
+/* Lighter Gray: #ddd */
+/* White: #fff */
+/* Black: #000 */
